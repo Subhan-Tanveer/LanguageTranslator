@@ -2,6 +2,8 @@ import streamlit as st
 from langdetect import detect
 from googletrans import Translator
 
+st.set_page_config(page_icon='🌍', page_title='Language Translator' )
+
 # List of all supported languages
 languages = {
     'Afrikaans': 'af',
