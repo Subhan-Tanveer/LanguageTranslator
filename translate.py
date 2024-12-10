@@ -90,6 +90,13 @@ st.markdown(
         opacity: 0;
     }
 
+    h1{
+        color: white;
+    }
+    p{
+        color: white;
+    }
+
     .stMainBlockContainer {
         background-color: transparent;
         opacity: 6;
