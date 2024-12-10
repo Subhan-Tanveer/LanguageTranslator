@@ -82,9 +82,18 @@ st.markdown(
     """
     <style>
     .stApp {
-        background-image: url("https://media4.giphy.com/media/IzihZRMnD33J4DsLT1/200w.gif?cid=6c09b952htwbe31upgkfzm1sf2viq7d7z0eksd1o9tnat48h&ep=v1_gifs_search&rid=200w.gif&ct=g");
+        background-image: url("https://i.pinimg.com/originals/c4/2c/c6/c42cc6210fcb93e743981d3d34722bf7.gif");
         background-size: cover;
         background-position: center;
+    }
+    .stAppHeader{
+        opacity: 0;
+    }
+
+    .stMainBlockContainer {
+        background-color: black;
+        opacity: 6;
+        border: 2px solid rgba(255,255,255,0.6);
     }
     </style>
     """,
