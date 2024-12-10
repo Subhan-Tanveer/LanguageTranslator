@@ -91,9 +91,8 @@ st.markdown(
     }
 
     .stMainBlockContainer {
-        background-color: black;
+        background-color: transparent;
         opacity: 6;
-        border: 2px solid rgba(255,255,255,0.6);
     }
     </style>
     """,
