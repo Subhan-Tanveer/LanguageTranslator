@@ -93,7 +93,7 @@ st.markdown(
     textarea , .st-ae{
         background-color: black;
         opacity: 0.7;
-        color: black;
+        color: white;
     }
 
     h1{
