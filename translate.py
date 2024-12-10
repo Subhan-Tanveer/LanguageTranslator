@@ -90,7 +90,7 @@ st.markdown(
         opacity: 0;
     }
 
-    textarea , .st-ce{
+    textarea , .st-ae{
         background-color: white;
     }
 
