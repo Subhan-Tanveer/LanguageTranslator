@@ -82,7 +82,7 @@ st.markdown(
     """
     <style>
     .stApp {
-        background-image: url("https://your-image-link-here.jpg");
+        background-image: url("https://media4.giphy.com/media/IzihZRMnD33J4DsLT1/200w.gif?cid=6c09b952htwbe31upgkfzm1sf2viq7d7z0eksd1o9tnat48h&ep=v1_gifs_search&rid=200w.gif&ct=g");
         background-size: cover;
         background-position: center;
     }
