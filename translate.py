@@ -90,6 +90,10 @@ st.markdown(
         opacity: 0;
     }
 
+    textarea , .st-ce{
+        background-color: white;
+    }
+
     h1{
         color: white;
     }
